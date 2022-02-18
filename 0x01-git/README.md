@@ -8,6 +8,7 @@ No installation yet.
 
 ```bash
 git init
+git pull
 ```
 
 ## Contributing
